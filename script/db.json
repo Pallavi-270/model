@@ -1,0 +1,10 @@
+{
+        "title": [
+          { "id": 1, "title": "First Post", "author": "John" },
+          { "id": 2, "title": "Second Post", "author": "Jane" }
+        ],
+        "message": [
+          { "id": 1, "postId": 1, "body": "Great post!" },
+          { "id": 2, "postId": 2, "body": "Nice article!" }
+        ]
+}
